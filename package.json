@@ -2,6 +2,9 @@
   "name": "sqlite-join",
   "version": "1.0.0",
   "description": "",
+  "bin": {
+    "diceroll" : "./bin/diceroll"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
